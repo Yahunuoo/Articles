@@ -1,4 +1,4 @@
-# ![install - 2025](./Assets/images)
+# ![install - 2025](./Assets/images/artical.png)
 
 ## articles miscellaneous about the world of programming
 
