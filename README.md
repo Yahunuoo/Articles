@@ -8,7 +8,7 @@
 
 1. [Language](#)
 
-    - [JavaScript](../JavaScript/README.md#javascript)
+    - [JavaScript](https://github.com/Yahunuoo/JavaScript/tree/main/JavaScript)
 
 2. [Version Control Systems](#)
 
