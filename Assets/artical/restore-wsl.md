@@ -4,7 +4,7 @@
 
 ## To restore WSL (Windows Subsystem for Linux) to its original state and clean it completely, there are several levels of cleanup:
 
-## delete a specific distribution and reinstall it only
+### delete a specific distribution and reinstall it only
 
 
 In `Windows PowerShell`, use the following command to list the installed distributions:
