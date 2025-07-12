@@ -18,6 +18,4 @@
 
     - [JavaScript](https://github.com/Yahunuoo/JavaScript/tree/main/JavaScript)
 
-
-
 ## Topics Miscellaneous
